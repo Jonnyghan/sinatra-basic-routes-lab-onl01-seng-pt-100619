@@ -10,4 +10,12 @@ get'/name' do
   "My name is __"
 end
 
+get '/hometown' do 
+  "My hometown is __"
+end 
+
+get '/favorite-song'
+  "My favorite song is __"
+end
+
 end
